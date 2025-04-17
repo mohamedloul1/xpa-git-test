@@ -1,0 +1,7 @@
+*.lock
+*.log
+*.bak
+runtime/
+*.tmp
+*.user
+xpa-git-test.lock
